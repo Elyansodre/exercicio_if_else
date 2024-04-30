@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\bin\Debug\net8.0\else_if_exercicio.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\bin\Debug\net8.0\else_if_exercicio.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\bin\Debug\net8.0\else_if_exercicio.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\bin\Debug\net8.0\else_if_exercicio.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\bin\Debug\net8.0\else_if_exercicio.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\refint\else_if_exercicio.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\else_if_exercicio.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\else_if_exercicio\else_if_exercicio\obj\Debug\net8.0\ref\else_if_exercicio.dll
